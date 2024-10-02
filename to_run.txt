@@ -1,0 +1,3 @@
+Install Ruby 3.2.5
+Run `bundle install`
+Run `rspec` or `bundle exec rspec`

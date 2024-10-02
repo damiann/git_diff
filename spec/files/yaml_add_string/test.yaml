@@ -1,0 +1,17 @@
+title: 'Testing'
+packages:
+  - test_package
+
+parts:
+  - translation:
+      key: 'txt.test.one'
+      title: 'Translate one'
+      value: 'One'
+  - translation:
+      key: 'txt.test.two'
+      title: 'Translate two'
+      value: 'Two'
+  - translation:
+      key: 'txt.test.three'
+      title: 'Translate three'
+      value: 'Three'
